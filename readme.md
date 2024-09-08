@@ -1,4 +1,4 @@
-# tea
+# aldev
 the package search engine.
 ## how do i use tea?
 this is not public yet since we have not added the package manager part (this is also only for windows machines)
@@ -8,11 +8,11 @@ do it!
 so donwload it from the source folder.
 ## then follow these instructions:
 ### open git bash and enter this command:
-cd /c/Users/YourUsername/path/to/script
+cd /c/Users/YourUsername/path/aldev.sh
 ### next enter this command:
-chmod +x tea.sh
+chmod +x aldev.sh
 ### finally run the script:
-./tea.sh
+./aldev.sh
 ### example
 enter "vscode"
 #### output:
