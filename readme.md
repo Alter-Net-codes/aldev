@@ -1,6 +1,6 @@
 # aldev
 the package search engine.
-## how do i use tea?
+## how do i use aldev?
 this is not public yet since we have not added the package manager part (this is also only for windows machines)
 ## install git
 do it!
