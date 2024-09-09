@@ -1,15 +1,16 @@
-Searching for packages matching 'vscode'...
-                                                                                Name                               Id                                  Version      Match                        Source
------------------------------------------------------------------------------------------------------------------------
-Microsoft Visual Studio Code       Microsoft.VisualStudioCode          1.93.0       Moniker: vscode              winget
-Codium                             Alex313031.Codium                   1.89.1.24132 Tag: vscode                  winget
-TheiaBlueprint                     EclipseFoundation.TheiaBlueprint    1.44.0       Tag: vscode                  winget
-Huawei QuickApp IDE                Huawei.QuickAppIde                  14.0.1       Tag: vscode                  winget
-VSCodium                           VSCodium.VSCodium                   1.92.2.24228 Tag: vscode                  winget
-VSCodium Insiders                  VSCodium.VSCodium.Insiders          1.93.0.24242 Tag: vscode                  winget
-vscli                              michidk.vscli                       0.3.0        Tag: vscode                  winget
-Upgit                              pluveto.Upgit                       0.2.18       Tag: vscode                  winget
-MrCode                             zokugun.MrCode                      1.82.0.23253 Tag: vscode                  winget
-Microsoft Visual Studio Code CLI   Microsoft.VisualStudioCode.CLI      1.93.0       Moniker: vscode-cli          winget
-Microsoft Visual Studio Code Insi… Microsoft.VisualStudioCode.Insiders 1.94.0       Moniker: vscode-insiders     winget
-Microsoft Visual Studio Code Insi… Microsoft.VisualStudioCode.Insider… 1.94.0       Moniker: vscode-insiders-cli winget
+Searching for packages related to 'vscode'...
+Name                Id                  Version      Match               Source
+-------------------------------------------------------------------------------
+Microsoft Visual S… Microsoft.VisualSt… 1.93.0       Moniker: vscode     winget
+Codium              Alex313031.Codium   1.89.1.24132 Tag: vscode         winget
+TheiaBlueprint      EclipseFoundation.… 1.44.0       Tag: vscode         winget
+Huawei QuickApp IDE Huawei.QuickAppIde  14.0.1       Tag: vscode         winget
+VSCodium            VSCodium.VSCodium   1.92.2.24228 Tag: vscode         winget
+VSCodium Insiders   VSCodium.VSCodium.… 1.93.0.24242 Tag: vscode         winget
+vscli               michidk.vscli       0.3.0        Tag: vscode         winget
+Upgit               pluveto.Upgit       0.2.18       Tag: vscode         winget
+MrCode              zokugun.MrCode      1.82.0.23253 Tag: vscode         winget
+Microsoft Visual S… Microsoft.VisualSt… 1.93.0       Moniker: vscode-cli winget
+Microsoft Visual S… Microsoft.VisualSt… 1.94.0       Moniker: vscode-in… winget
+Microsoft Visual S… Microsoft.VisualSt… 1.94.0       Moniker: vscode-in… winget
+Do you want to download a package from the list above? (yes/no):
