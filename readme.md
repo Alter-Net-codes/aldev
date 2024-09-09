@@ -1,19 +1,17 @@
 # aldev
 the package search engine.
 ## how do i use aldev?
-this is not public yet since we have not added the package manager part (this is also only for windows machines)
-## install git
+(this is also only for windows machines)
+### install git
 do it!
-## download the tea.sh script
-so donwload it from the source folder.
-## then follow these instructions:
-### open git bash and enter this command:
-cd /c/Users/YourUsername/path/aldev.sh
-### next enter this command:
-chmod +x aldev.sh
-### finally run the script:
-./aldev.sh
-### example
+### download the aldev.sh script
+so download it from the latest release.
+### then follow these instructions:
+#### open git enter this command:
+chmod +x aldev.sh (this is a one time thing so doing this twice or every time you run it is not necessary)
+### finally...
+go to file explorer and the place where the script is and run it!
+#### example
 enter "vscode"
-#### output:
+##### output:
 see in output.txt
